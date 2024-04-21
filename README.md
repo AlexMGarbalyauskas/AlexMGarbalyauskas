@@ -14,3 +14,5 @@ Check out my YouTube: https://www.youtube.com/channel/UCnajo0ATG8JWouLWVppJTPA
 - ⚡ Fun fact: ...
 -->
 ### Languages and Tools
+Skills
+GitJavaScriptJavaPythonC++GNU BashVS CodeVimHTML5ReactJQueryCSS3SassTailwindCSSBootstrapViteNodeJSMySQLAmazon Web ServicesArduinoLinux
