@@ -1,5 +1,5 @@
 ### Hi there 👋
-Alex Maryus Garbalyauskas <style> size 18 </style>
+Alex Maryus Garbalyauskas 
 
 
 - 📫 How to reach me: 
