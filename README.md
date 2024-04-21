@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on new projects, 
 - 💬 Avid reader of history
 - 😄 Pronouns: he/him
-- ⚡ Fun fact:
+- ⚡ Fun fact: Some philosophers and scientists speculate that our reality might just be a simulation run by advanced beings, making our existence fundamentally artificial.
   
 ### Languages and Tools
 
