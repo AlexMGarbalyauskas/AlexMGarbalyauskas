@@ -1,12 +1,18 @@
 ### Hi there 👋
-Alex Maryus Garbalyauskas 
+-Alex Maryus Garbalyauskas 
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 
-- 📫 How to reach me: 
-Check out my LinkedIn: https://www.linkedin.com/in/alex-garbaliauskas-2b9254255/
-Check out my YouTube: https://www.youtube.com/channel/UCnajo0ATG8JWouLWVppJTPA
+-📫 How to reach me:
+-Check out my LinkedIn: https://www.linkedin.com/in/alex-garbaliauskas-2b9254255/
+-Check out my YouTube: https://www.youtube.com/channel/UCnajo0ATG8JWouLWVppJTPA
 
-- 🔭 I’m currently working on college projects
+-🔭 I’m currently working on college projects
 - 🌱 I’m currently learning computing
 - 👯 I’m looking to collaborate on new projects, 
 - 💬 Avid reader of history
@@ -14,5 +20,4 @@ Check out my YouTube: https://www.youtube.com/channel/UCnajo0ATG8JWouLWVppJTPA
 - ⚡ Fun fact: ...
 -->
 ### Languages and Tools
-Skills
-GitJavaScriptJavaPythonC++GNU BashVS CodeVimHTML5ReactJQueryCSS3SassTailwindCSSBootstrapViteNodeJSMySQLAmazon Web ServicesArduinoLinux
+
