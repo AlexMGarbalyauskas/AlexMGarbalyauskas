@@ -16,7 +16,7 @@
 
 -🔭 I’m currently working on college projects
 - 🌱 I’m currently learning computing
-- 👯 I’m looking to collaborate on new projects, 
+- 👯 I’m looking to collaborate on new projects
 - 💬 Avid reader of history
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Some philosophers and scientists speculate that our reality might just be a simulation run by advanced beings, making our existence fundamentally artificial.
