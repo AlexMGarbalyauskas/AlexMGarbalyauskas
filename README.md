@@ -7,8 +7,9 @@
     </h1>
 </div>
 
+
 -🔭 I’m currently working on college projects
-- 🌱 I’m currently learning computing
+- 🌱 I’m currently learning computer science
 - 👯 I’m looking to collaborate on new projects
 - 💬 Avid reader of history
 - 😄 Pronouns: he/him
