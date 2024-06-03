@@ -7,9 +7,6 @@
     </h1>
 </div>
 
-
--📫 How to reach me:
-
 -🔭 I’m currently working on college projects
 - 🌱 I’m currently learning computing
 - 👯 I’m looking to collaborate on new projects
