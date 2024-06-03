@@ -21,7 +21,7 @@
 
 -https://github.com/dappswap
 
--https://taikai.network/ethireland/hackathons/ethdubs2024
+-https://taikai.network/ethireland/hackathons/ethdubs2024/projects/clwv16yw10314uy01ostce6wq/idea
   
 ### Languages and Tools
 
