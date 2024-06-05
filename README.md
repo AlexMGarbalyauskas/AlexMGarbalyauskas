@@ -1,4 +1,4 @@
-### Hi there 👋       [![](https://visitcount.itsvg.in/api?id=dappswap&icon=1&color=0)](https://visitcount.itsvg.in)
+### Hi there 👋       [![](https://visitcount.itsvg.in/api?id=TurtleHermetMaster&label=39&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 ### Alex Maryus Garbalyauskas Read Me
 
 <div align="center">
