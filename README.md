@@ -15,7 +15,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Some philosophers and scientists speculate that our reality might just be a simulation run by advanced beings, making our existence fundamentally artificial.
 
-### Dublin Hackathon, IRL Web3 Hackathon Winner for Project "Plutus" found in the organization link and down below.
+### Dublin Hackathon, IRL Web3 Hackathon 3rd place Winner for Project "Plutus" found in the organization link and down below.
 
 -https://github.com/dappswap
 
