@@ -15,6 +15,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Some philosophers and scientists speculate that our reality might just be a simulation run by advanced beings, making our existence fundamentally artificial.
 
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexMGarbalyauskas&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMGarbalyauskas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexMGarbalyauskas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Dublin Hackathon, IRL Web3 Hackathon 3rd place Winner for Project "Plutus" found in the organization link and down below.
 
 -https://github.com/dappswap
