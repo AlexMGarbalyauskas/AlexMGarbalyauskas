@@ -1,5 +1,5 @@
-<h1> HI There </h1> 👋       [![](https://visitcount.itsvg.in/api?id=TurtleHermetMaster&label=39&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
+<h1> HI There 👋 </h1>
+ [![](https://visitcount.itsvg.in/api?id=TurtleHermetMaster&label=39&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Alex];This+is..;..my+Github..;" alt="Typing SVG"/>
