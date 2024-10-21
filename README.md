@@ -68,7 +68,7 @@
 </picture> 
 </a>
 
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/portfolio.png" alt="portfolio"/>
+<img width="48" height="48" src="https://alexmgarbalyauskas.github.io/My-Web-Portfolio/" alt="portfolio"/>
 
 </p>
 <blockquote>
