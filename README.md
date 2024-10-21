@@ -67,10 +67,6 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="48" height="48" /> 
 </picture> 
 </a>
-
-<img width="48" height="48" src="https://alexmgarbalyauskas.github.io/My-Web-Portfolio/" alt="portfolio"/>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/portfolio.png" alt="portfolio"/>
-
 </p>
 <blockquote>
 
